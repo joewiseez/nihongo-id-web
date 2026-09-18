@@ -1,0 +1,6 @@
+{
+  "name": "Nihongo ID",
+  "description": "Aplikasi belajar bahasa Jepang untuk penutur bahasa Indonesia dari nol menuju JLPT N5 dan N4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
